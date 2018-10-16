@@ -26,7 +26,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 - [Adding a Stylesheet](#adding-a-stylesheet)
 - [Adding a CSS Modules Stylesheet](#adding-a-css-modules-stylesheet)
 - [Adding a Sass Stylesheet](#adding-a-sass-stylesheet)
-- [Post-Processing CSS](#post-processing-css)
+- [-Processing CSS](#post-processing-css)
 - [Adding Images, Fonts, and Files](#adding-images-fonts-and-files)
 - [Adding SVGs](#adding-svgs)
 - [Using the `public` Folder](#using-the-public-folder)

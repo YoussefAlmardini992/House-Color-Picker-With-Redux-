@@ -1,0 +1,11 @@
+:local(.Body){
+    width: 200px;
+    height: 350px;
+    margin: 0 auto;
+    background: black;
+}
+:local(.WindowsLine){
+    display: flex;
+}
+
+

@@ -1,0 +1,10 @@
+:local(.Door){
+     width: 50px;
+     height: 100px;
+     margin: 15% auto;
+     background: white;
+ }
+:local(.Door):hover{
+    cursor: copy;
+    opacity: 0.5;
+}
