@@ -10,7 +10,7 @@ class App extends Component {
         return (
             <Provider store={store}>
                 <div className="App">
-                    <h1>Click on house's part to <br/>
+                    <h1>Click on house's parts to <br/>
                         change the color , then click <br/>
                         refresh to get <br/>
                     colors data from redux</h1>
